@@ -1,5 +1,5 @@
 # Thesis
-This repository contains the Jupyter Python code used for data preparation and econometric analysis in this study. 
+This repository contains the Jupyter Python code used for data preparation and econometric analysis in the study "The Impact of Indonesian Government Industrial Policies on the Domestic Market and Automotive Trade in 2010–2025". 
 
 The file build_dataset_.ipynb includes the code used to transform the original Excel file (new_dataset_brend_normalized_finalv13) into a panel dataset.
 
